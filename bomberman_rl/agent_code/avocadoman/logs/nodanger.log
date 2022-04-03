@@ -1,0 +1,313 @@
+2022-04-03 14:53:27,706 [nodanger_code] INFO: Loading model from saved state.
+2022-04-03 14:53:28,269 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,275 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:28,277 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:28,370 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,376 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:28,379 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:28,470 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,477 [nodanger_code] INFO: Feature vector: [0 1 0 0 0 0 0 0 0]
+2022-04-03 14:53:28,479 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:28,573 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,579 [nodanger_code] INFO: Feature vector: [0 0 1 0 0 0 0 0 0]
+2022-04-03 14:53:28,580 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:28,673 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,679 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:28,681 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:28,774 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,780 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:28,782 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:28,877 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,884 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:28,885 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:28,978 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:28,984 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:28,987 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:29,080 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,087 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:29,088 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:29,181 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,188 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:29,190 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:29,283 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,290 [nodanger_code] INFO: Feature vector: [ 0 -1  0  0  0  0  0  0  0]
+2022-04-03 14:53:29,292 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:29,384 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,391 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:29,393 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:29,484 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,492 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:29,494 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:29,585 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,594 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 1 0 0 0]
+2022-04-03 14:53:29,595 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:29,687 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,696 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 1 0 0 0]
+2022-04-03 14:53:29,697 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:29,789 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,797 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:29,799 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:29,891 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:29,899 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:29,901 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:29,992 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,001 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:30,003 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:30,094 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,103 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:30,105 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:30,195 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,204 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:30,206 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:30,294 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,304 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:30,306 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:30,396 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,406 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:30,408 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:30,497 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,507 [nodanger_code] INFO: Feature vector: [ 0 -1  0  0  0  0  0  0  0]
+2022-04-03 14:53:30,509 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:30,598 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,608 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:30,609 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:30,699 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,709 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:30,710 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:30,801 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,811 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 1 0 0 0]
+2022-04-03 14:53:30,813 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:30,903 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:30,912 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:30,914 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,004 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,013 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:31,015 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,105 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,114 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:31,116 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,206 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,215 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:31,217 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,307 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,318 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:31,319 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:31,409 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,421 [nodanger_code] INFO: Feature vector: [0 0 1 0 0 0 0 0 0]
+2022-04-03 14:53:31,424 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,510 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,521 [nodanger_code] INFO: Feature vector: [0 0 1 0 0 0 0 0 0]
+2022-04-03 14:53:31,523 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,613 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,623 [nodanger_code] INFO: Feature vector: [ 0 -1  0  0  0  0  0  0  0]
+2022-04-03 14:53:31,624 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:31,713 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,724 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:31,725 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,814 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,824 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:31,826 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:31,914 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:31,925 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:31,927 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:32,015 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,026 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:32,028 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:32,118 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,129 [nodanger_code] INFO: Feature vector: [0 1 0 0 0 0 0 0 0]
+2022-04-03 14:53:32,131 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:32,218 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,229 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:32,231 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:32,321 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,331 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:32,333 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:32,421 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,432 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:32,434 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:32,522 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,533 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:32,535 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:32,623 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,635 [nodanger_code] INFO: Feature vector: [0 0 1 0 0 0 0 0 0]
+2022-04-03 14:53:32,637 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:32,724 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,735 [nodanger_code] INFO: Feature vector: [ 0 -1  0  0  0  0  0  0  0]
+2022-04-03 14:53:32,737 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:32,825 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,836 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:32,838 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:32,927 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:32,938 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:32,940 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:33,029 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,039 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:33,041 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:33,129 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,141 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:33,142 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:33,231 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,244 [nodanger_code] INFO: Feature vector: [0 1 0 0 0 0 0 0 0]
+2022-04-03 14:53:33,246 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:33,331 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,344 [nodanger_code] INFO: Feature vector: [0 1 0 0 0 0 0 0 0]
+2022-04-03 14:53:33,346 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:33,433 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,445 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:33,447 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:33,534 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,547 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:33,548 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:33,636 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,649 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0  0 -1]
+2022-04-03 14:53:33,651 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:33,739 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,752 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0 -1  0  0  0]
+2022-04-03 14:53:33,754 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:33,839 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,852 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0 -1  0  0  0]
+2022-04-03 14:53:33,854 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:33,941 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:33,954 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0 -1  0  0]
+2022-04-03 14:53:33,955 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:34,042 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,052 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0 -1  0  0]
+2022-04-03 14:53:34,054 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:34,144 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,154 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0 -1  0  0  0]
+2022-04-03 14:53:34,156 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:34,245 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,255 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0 -1  0  0  0]
+2022-04-03 14:53:34,256 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:34,345 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,355 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0 -1  0  0  0]
+2022-04-03 14:53:34,357 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:34,445 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,455 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0 -1  0  0  0]
+2022-04-03 14:53:34,457 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:34,547 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,558 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0 -1  0  0]
+2022-04-03 14:53:34,560 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:34,648 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,658 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0 -1  0  0]
+2022-04-03 14:53:34,660 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:34,750 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,761 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0 -1  0  0]
+2022-04-03 14:53:34,763 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:34,851 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,862 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0 -1  0  0]
+2022-04-03 14:53:34,864 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:34,952 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:34,963 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 1 0 0 0]
+2022-04-03 14:53:34,964 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:35,053 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,063 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 1 0 0 0]
+2022-04-03 14:53:35,065 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:35,154 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,164 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:35,166 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:35,256 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,267 [nodanger_code] INFO: Feature vector: [ 0 -1  0  0  0  0  0  0  0]
+2022-04-03 14:53:35,268 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:35,358 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,368 [nodanger_code] INFO: Feature vector: [ 0 -1  0  0  0  0  0  0  0]
+2022-04-03 14:53:35,370 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:35,459 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,469 [nodanger_code] INFO: Feature vector: [0 0 1 0 0 0 0 0 0]
+2022-04-03 14:53:35,471 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:35,561 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,571 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:35,572 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:35,662 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,672 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:35,674 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:35,764 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,773 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:35,776 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:35,865 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,874 [nodanger_code] INFO: Feature vector: [0 1 0 0 0 0 0 0 0]
+2022-04-03 14:53:35,876 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:35,966 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:35,977 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 1 0 0 0]
+2022-04-03 14:53:35,979 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:36,067 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,078 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 1 0 0]
+2022-04-03 14:53:36,080 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:36,168 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,178 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:36,180 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:36,269 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,279 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:36,281 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:36,371 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,381 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 1 0 0 0]
+2022-04-03 14:53:36,383 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:36,473 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,482 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:36,484 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:36,573 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,584 [nodanger_code] INFO: Feature vector: [0 1 0 0 0 0 0 0 0]
+2022-04-03 14:53:36,586 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:36,675 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,686 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:36,688 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:36,776 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,787 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:36,789 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:36,878 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,889 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:36,891 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:36,980 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:36,990 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:36,992 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:37,081 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,090 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:37,092 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:37,183 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,192 [nodanger_code] INFO: Feature vector: [ 1  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:37,194 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:37,284 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,294 [nodanger_code] INFO: Feature vector: [ 1  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:37,295 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:37,384 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,394 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:37,396 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:37,486 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,497 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:37,498 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:37,587 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,598 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:37,599 [nodanger_code] INFO: Choose action RIGHT
+2022-04-03 14:53:37,688 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,698 [nodanger_code] INFO: Feature vector: [ 0  0  0  0  0  0  0 -1  0]
+2022-04-03 14:53:37,700 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:37,790 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,801 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:37,803 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:37,891 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:37,902 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:37,904 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:37,992 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,003 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:38,004 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:38,093 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,103 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 1]
+2022-04-03 14:53:38,105 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:38,194 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,204 [nodanger_code] INFO: Feature vector: [1 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:38,205 [nodanger_code] INFO: Choose action BOMB
+2022-04-03 14:53:38,296 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,306 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:38,308 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:38,397 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,407 [nodanger_code] INFO: Feature vector: [ 0  0 -1  0  0  0  0  0  0]
+2022-04-03 14:53:38,409 [nodanger_code] INFO: Choose action UP
+2022-04-03 14:53:38,498 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,509 [nodanger_code] INFO: Feature vector: [ 0 -1  0  0  0  0  0  0  0]
+2022-04-03 14:53:38,511 [nodanger_code] INFO: Choose action LEFT
+2022-04-03 14:53:38,600 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,610 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 2 2]
+2022-04-03 14:53:38,612 [nodanger_code] INFO: Choose action DOWN
+2022-04-03 14:53:38,701 [nodanger_code] DEBUG: Querying model for action.
+2022-04-03 14:53:38,713 [nodanger_code] INFO: Feature vector: [0 0 0 0 0 0 0 0 0]
+2022-04-03 14:53:38,714 [nodanger_code] INFO: Choose action RIGHT
